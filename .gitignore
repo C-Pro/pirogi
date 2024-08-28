@@ -1,0 +1,8 @@
+.env
+**/*.json
+**/*.jsonl
+**/*.pyc
+*.txt
+*.zip
+pages
+split
